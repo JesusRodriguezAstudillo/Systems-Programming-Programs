@@ -1,0 +1,1 @@
+Please remember to change the permission of the script RE.sh using chmod +x RE.sh before running the program
